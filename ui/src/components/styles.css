@@ -1,0 +1,9 @@
+.containerActions{
+    position: absolute;
+    right: 50px;
+    margin-top: -6px;
+    width: 80px;
+    display: flex;
+    justify-content: space-around;
+
+}
